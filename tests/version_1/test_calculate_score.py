@@ -1,5 +1,5 @@
 import pytest
-from ten_thousand.game_logic import GameLogic
+from game_of_greed.game_logic import GameLogic
 
 
 @pytest.mark.parametrize(
